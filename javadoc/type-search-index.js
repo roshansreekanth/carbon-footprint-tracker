@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"models","l":"Activity"},{"p":"models","l":"ActivityList"},{"p":"controller","l":"ActivityNameComparator"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"controller","l":"Controller"},{"p":"controller","l":"DateComparator"},{"p":"models","l":"UserActivities"},{"p":"views","l":"View"}]
